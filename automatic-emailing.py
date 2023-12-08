@@ -8,8 +8,8 @@ from email.mime.application import MIMEApplication
 csv_file_path = './Emails.csv'
 
 # Email configuration
-your_email = 'aymaneaitelbhiri14@gmail.com'
-your_password = 'avmr bxem rxrc rvhm'
+your_email = 'email@gmail.com'
+your_password = password'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 
